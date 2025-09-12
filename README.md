@@ -1,6 +1,15 @@
 # Game-Dev-Portfolio
 Portfolio of any projects I've created related to game development
 
+**furLoops**
+-
+*July 2025* <br/>
+Game jam submission for GMTK Game Jam 2025 <br/>
+Obtained top 260th overall out of 9594 entries <br/>
+https://itch.io/jam/gmtk-2025/rate/3764151 <br/>
+<img width="595" height="335" alt="image" src="https://github.com/user-attachments/assets/77faa178-8b48-40e6-9b22-9b6147846ba4" /> <br/>
+<img width="299" height="191" alt="image" src="https://github.com/user-attachments/assets/2b2d41ab-731c-45f4-86cd-3c02a58f7b41" />
+
 **Vfx Test**
 -
 *April 2025* <br/>
@@ -14,15 +23,6 @@ https://github.com/user-attachments/assets/ed68d2bf-8db1-4679-8b7b-72ca022fee40
 Learned to make an asset pack on Itch.io <br/>
 https://axyre-devs.itch.io/lowpoly-trees
 ![Screenshot 2025-04-13 172127](https://github.com/user-attachments/assets/10ea5e83-a1ef-455b-a6db-8c6db2d0a881)
-
-**furLoops**
--
-*July 2025* <br/>
-Game jam submission for GMTK Game Jam 2025 <br/>
-Obtained top 260th overall out of 9594 entries <br/>
-https://itch.io/jam/gmtk-2025/rate/3764151 <br/>
-<img width="595" height="335" alt="image" src="https://github.com/user-attachments/assets/77faa178-8b48-40e6-9b22-9b6147846ba4" /> <br/>
-<img width="299" height="191" alt="image" src="https://github.com/user-attachments/assets/2b2d41ab-731c-45f4-86cd-3c02a58f7b41" />
 
 **Dev Snippets**
 -
