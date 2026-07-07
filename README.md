@@ -7,6 +7,8 @@ Portfolio of any projects I've created related to game development
 Game jam submission for TheVerySeriousJuniperDev Game Jam 2026 <br/>
 Obtained top 345th overall out of 3438 entries <br/>
 https://itch.io/jam/theveryseriousjuniperdevgamejam/rate/4702769 <br/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4441827f-a647-4970-aca2-ae00fb8b7784" /> <br/>
+<img width="354" height="217" alt="image" src="https://github.com/user-attachments/assets/7e33dc96-e873-4749-aa56-13aa934ff5d1" />
 
 **furLoops**
 -
