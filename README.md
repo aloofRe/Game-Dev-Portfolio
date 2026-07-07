@@ -1,6 +1,13 @@
 # Game-Dev-Portfolio
 Portfolio of any projects I've created related to game development
 
+**QUANTUM uᴉdS**
+-
+*June 2026* <br/>
+Game jam submission for TheVerySeriousJuniperDev Game Jam 2026 <br/>
+Obtained top 345th overall out of 3438 entries <br/>
+https://itch.io/jam/theveryseriousjuniperdevgamejam/rate/4702769 <br/>
+
 **furLoops**
 -
 *July 2025* <br/>
